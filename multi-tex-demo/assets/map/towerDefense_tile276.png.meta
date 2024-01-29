@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "d9f24c67-84bd-4a1d-87c2-1f815ab8ee5a",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "towerDefense_tile276": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "ca4f720b-20e8-40d3-b4b3-1fedc4b27d9a",
+      "importer": "sprite-frame",
       "rawTextureUuid": "d9f24c67-84bd-4a1d-87c2-1f815ab8ee5a",
       "trimType": "auto",
       "trimThreshold": 1,
